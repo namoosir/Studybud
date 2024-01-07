@@ -1,9 +1,0 @@
-{
-    "python.REPL.enableREPLSmartSend": false,
-    "python.analysis.autoImportCompletions": true,
-    "python.analysis.typeCheckingMode": "basic",
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.autopep8",
-        "editor.formatOnSave": true
-      }
-}
